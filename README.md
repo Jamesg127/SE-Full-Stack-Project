@@ -1,7 +1,7 @@
-#Rocket League Full Stack Project
+# Rocket League Full Stack Project
 
 
-#####The purpose of this project is to show you your stats while you are in a game of Rocket League, as if you expanded the custom scoreboard added in season 24. It also tells you the speed and impact force of the ball when you hit the crossbar.
+##### The purpose of this project is to show you your stats while you are in a game of Rocket League, as if you expanded the custom scoreboard added in season 24. It also tells you the speed and impact force of the ball when you hit the crossbar.
 
 ### Use Cases
 As a player, I need to be able to see my stats
