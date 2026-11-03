@@ -31,5 +31,3 @@ You cannot share a username with other people
 
 ## Derivation Rules
 A stat counter is increased when that stat is achieved in game according to the live Rocket League API
-
-!["ERD"](ERD.png)
