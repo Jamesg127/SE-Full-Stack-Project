@@ -16,9 +16,18 @@ As a viewer, I need to be able to view players stats
 
 # Business Rules
 ## Structural Rules
-A team must have players
-A match must have 2 teams
+A player must have a username
+
+
+A player must be in a match
+
+
+A player must be in a session
+
+
 ## Integrity Constraints
 You cannot share a username with other people
+
+
 ## Derivation Rules
-A teams total wins = total of each individual matches that it was determined the winner
+A stat counter is increased when that stat is achieved in game according to the live Rocket League API
