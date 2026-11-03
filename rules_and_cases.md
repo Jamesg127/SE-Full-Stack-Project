@@ -2,12 +2,16 @@
 As a player, I need to be able to see my stats
 
 
-As a player, I need to be able to see my team info
+As a player, I need to be able to see my match info
 
 
-As a player, I need to be able to input my stats
+As a player, I need to be able to see my session info
 
-As a spectator, I need to be able to see the games stats
+
+As a player, I need to be able to play to input my stats
+
+
+As a viewer, I need to be able to view players stats
 
 
 # Business Rules
