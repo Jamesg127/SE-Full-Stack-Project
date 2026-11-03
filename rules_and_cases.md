@@ -6,9 +6,8 @@ As a player, I need to be able to see my team info
 
 
 As a player, I need to be able to input my stats
-A
 
-s a spectator, I need to be able to see the games stats
+As a spectator, I need to be able to see the games stats
 
 
 # Business Rules
